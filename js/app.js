@@ -4,6 +4,7 @@ let search = document.querySelector("#search")
 const weather = document.querySelector("#weather")
 let a = new Date();
 document.getElementById("date").innerHTML = a;
+document.getElementById("year").innerHTML = new Date().getFullYear();
 
 
 const getWeather = async(search) => {

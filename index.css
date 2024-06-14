@@ -86,6 +86,12 @@ form{
     color: #fff;
 }
 
+.year, #year{
+    color: rgb(114, 116, 118);
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
 @media screen and (max-width:768px){
     #date{
         font-size: 1.1rem;
