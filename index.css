@@ -42,6 +42,7 @@ wrapper{
     justify-content: center;
     align-items: center;
     color: aqua;
+
 }
 
 form{
@@ -85,8 +86,8 @@ form{
     color: #fff;
 }
 
-#year{
-    color: rgb(246, 91, 7);
+.year,#year{
+    color: rgb(114, 116, 118);
     margin-bottom: 1rem;
     font-size: 1rem;
 }
